@@ -69,7 +69,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - your.email@example.com - [Your GitHub Profile](https://github.com/adnanbhuiyan)
+Adnan Bhuiyan - abhuiyan8@fordham.edu - [GitHub](https://github.com/adnanbhuiyan)
 ```
 
 ### Notes on the README File:

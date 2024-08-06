@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Caches and logs
+cache/
+*.log
+
+# Virtual environment
+venv/
+env/
+
+# PyCharm
+.idea/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# VS Code
+.vscode/

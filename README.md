@@ -1,6 +1,4 @@
-Here's a comprehensive `README.md` file that outlines the installation and usage of your Python package, which integrates both the YouTube Data API and YouTube Transcript API. This README includes setup instructions, basic usage examples, and additional information such as how to contribute and where to report issues.
 
-### File: `README.md`
 
 ```markdown
 # YouTube Complete API

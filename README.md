@@ -3,7 +3,7 @@
 ```markdown
 # YouTube Complete API
 
-This Python package provides a unified interface for the YouTube Data API and YouTube Transcript API, allowing easy access to both video details and transcripts with a single package.
+This Python package provides a unified interface for the YouTube Data API and YouTube Transcript API, allowing easy access to both video details and transcripts with a single package
 
 ## Features
 
